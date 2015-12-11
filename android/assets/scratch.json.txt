@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Dumb Basic Sword",
+    },
+    {
+        "id": 2,
+        "name": "Bad Ass Flaming Sword",
+    },
+    {
+        "id": 3,
+        "name": "Sword of Kick Ass",
+    }
+]
